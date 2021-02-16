@@ -38,4 +38,5 @@ Models of suceptibility to wildfire for valued resources and assets.
 
 # References
 Gilbertson-Day, J. W., J. H. Scott, K. C. Vogler, A. Brough, and R. D. Stratton. 2018. Pacific Northwest Quantitative Wildfire Risk Assessment: Methods and Results. :1–86.
+
 [Rogue Basin Strategy v.2](https://www.conservationgateway.org/ConservationPractices/FireLandscapes/LANDFIRE/Documents/Rogue%20Basin%20Cohesive%20Strategy.pdf) 
