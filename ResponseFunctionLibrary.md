@@ -25,11 +25,11 @@ Models of suceptibility to wildfire for valued resources and assets.
 ## Buildings and Developed Areas
 Some QRAs rely on building or residential density data, others rely on building footprints or other discrete features.
 
-# Delineation
+### Delineation
 
 These density metrics can be very poor if the neightborhoods used to defined the area are inconsistently delineated. Census-derived metrics are relatively low quality because 
 
-# Response Functions
+### Response Functions
 
 Direct ignition vs firebrand/ember ignition?
 
